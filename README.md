@@ -1,5 +1,6 @@
 # dotfiles
 My Dotfiles like .vimrc, .tmux.conf, etc...
+Inspired by [kevinstephano/dotfiles.git](https://github.com/kevinstephano/dotfiles)
 
 ## Vim plugins added
 * [Git Plugin](https://github.com/tpope/vim-fugitive)
