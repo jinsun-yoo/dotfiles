@@ -1,0 +1,6 @@
+[user]
+	name = Jinsun Yoo
+	email = jinsun.official@gmail.com
+[core]
+	excludesFile = /home/jinsun/.gitignore
+	editor = code --wait
